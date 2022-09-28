@@ -4,11 +4,11 @@
 
 ## Register
 
+![Screenshot (406)](https://user-images.githubusercontent.com/102729366/192719681-af8d5774-fbeb-4031-b9c6-8acc7bc57ebf.png)
 
 ## Dashboard
 
-
-
+![Screenshot (407)](https://user-images.githubusercontent.com/102729366/192719745-e14a5d26-36fe-4f18-b2a4-7e7f692df372.png)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
